@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file_list onError="stop">
+	<file type="clip" label="Bibliothèque des objets" src="/clips/sprites/accessories/accessories.swf"/>
+	<file type="clip" label="Skin des objets 1" src="/clips/sprites/accessories/a1.swf"/>
+	<file type="clip" label="Skin des objets 2" src="/clips/sprites/accessories/a2.swf"/>
+	<file type="clip" label="Skin des objets 3" src="/clips/sprites/accessories/a3.swf"/>
+	<file type="clip" label="Skin des objets 4" src="/clips/sprites/accessories/a4.swf"/>
+	<file type="xml" label="Skin dinde" src="/myAvatar/7002.swf"/>
+	<file type="xml" label="Skin iop" src="/myAvatar/80.swf"/>
+	<file type="xml" label="Fichier de langue objets" src="/media/swf/items_fr_288.swf"/>
+	<file type="xml" label="Fichier de langue dindes" src="/media/swf/rides_fr_96.swf"/>
+	<file type="appli" label="Application" src="/myAvatar/myAvatar.swf"/>
+</file_list>
